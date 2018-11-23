@@ -1,10 +1,11 @@
-#PDFMerger for PHP (PHP 5/Laravel Compatible)
+#PDFMerger for PHP (PHP 5/Symfony Compatible) with TCPDF
 
 Original written by http://pdfmerger.codeplex.com/team/view port to PHP 5 by https://github.com/myokyawhtun/PDFMerger
 
-## Laravel Compatible
+## Symfony Compatible
 
-I have made some changes to make PHPMerger compatible for Laravel 4
+Based on https://github.com/rguedes/PDFMerger.
+FPDF/FPDI replaced by TCPDF because of FPDI free version not able handle all PDF compressions type.
 
 ### Example Usage
 ```php

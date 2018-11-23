@@ -1,17 +1,20 @@
 {
-    "name": "rguedes/pdfmerger",
-    "version": "1.0.3",
-    "description": "PDFMerger for PHP",
-    "keywords": ["PHP", "PDF"],
-    "homepage": "https://github.com/rguedes/PDFMerger",
+    "name": "bendavidson90/pdfmerger",
+    "version": "1.0.4",
+    "description": "PDFMerger for PHP/Symfony",
+    "keywords": ["PHP", "Symfony", "PDF"],
+    "homepage": "https://github.com/BenDavidson90/PDFMerger",
     "type": "library",
-    "license": "LGPL",
+    "license": "MIT",
     "authors": [{
         "name": "Myo Kyaw Htun",
         "homepage": "https://github.com/myokyawhtun"
     },{
         "name": "Rolando Guedes",
         "homepage": "https://github.com/rguedes"
+    },{
+        "name": "BenDavidson90",
+        "homepage": "https://github.com/BenDavidson90"
     }],
     "require": {
         "php": ">=5.2.0"
